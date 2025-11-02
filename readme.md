@@ -42,4 +42,4 @@ This project is licensed under the [MIT License](./LICENSE).
 ## Author
 
 **99%** [Nathan Rugg](https://github.com/nmrugg)  
-**1%** small mod and .bi5 example by [Norbert Szabo](https://github.com/szabonorbert)
+**1%** small mod and `.bi5` example by [Norbert Szabo](https://github.com/szabonorbert)
