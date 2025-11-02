@@ -10,7 +10,7 @@ I just made some tiny changes to make it work everywhere.
 
 Just download the file and include it in your project - no build tools required.
 
-## .bi5
+## Dukascopy .bi5
 
 I’m 99% sure you came here to decompress **Dukascopy `.bi5`** data. 
 Here's how you can do that:
