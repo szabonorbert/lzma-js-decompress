@@ -3,10 +3,8 @@
 A standalone JavaScript implementation of the LZMA decompression algorithm.  
 Written in pure JS, works everywhere: **Node.js**, **browsers**, **Cloudflare Workers**, and so on, with **no dependencies**.
 
-Originally grabed from [LZMA-JS]([https://github.com/nmrugg](https://github.com/LZMA-JS/LZMA-JS)) repository (MIT),
+Originally grabed from [LZMA-JS repository (MIT)](https://github.com/LZMA-JS/LZMA-JS),
 I just made some tiny changes to make it work everywhere.
-
----
 
 ## Installation
 
